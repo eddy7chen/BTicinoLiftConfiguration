@@ -1,0 +1,2 @@
+# BTicinoLiftConfiguration
+BTicinoLiftConfiguration Legrand国外版梯控配置软件
